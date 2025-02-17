@@ -1,6 +1,6 @@
 🐍 Python Full Stack Dev 🚀 | DevOps Enthusiast 🛠️ | Bridging Dreams to Code Reality
 
-👋 Hey there, fellow code explorers! I'm Asad, a Python Full Stack Developer on a transformative 4-year journey through the digital realm. My mission? Weaving elegant solutions that bridge the chasm between dreams and reality, one meticulously crafted line of code at a time.
+👋 Hey there, fellow code explorers! I'm Asad, a Python Full Stack Developer on a transformative 5-year journey through the digital realm. My mission? Weaving elegant solutions that bridge the chasm between dreams and reality, one meticulously crafted line of code at a time.
 
 📚 With an insatiable hunger for learning, my coding odyssey has traversed the expansive terrains of both front-end and back-end development. From sculpting intuitive user interfaces that leave indelible impressions, to architecting robust server-side systems that pulse with life, I'm enthralled by mastering the complete stack.
 
